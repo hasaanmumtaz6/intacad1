@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Home &rarr; StartupMAXIM</title>
+        <title>Home - INTACAD</title>
       </Head>
       {/* <AuthenticatedRoute> */}
         <div className="min-h-screen max-h-full home-container">
