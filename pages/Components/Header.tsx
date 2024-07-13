@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
-import logo from "@/public/image/logo.png";
+import logo from "@/public/image/logo.svg";
 import LinkBtn from "./LinkBtn";
 import { MdMenu } from "react-icons/md";
 import { IoClose } from "react-icons/io5";
@@ -34,17 +34,17 @@ const Header = () => {
 
   return (
     <header
-      className={`header fixed z-50 transition-all duration-700 ${
+      className={`header fixed !px-32 z-50 transition-all duration-700 ${
         isSticky
           ? "sticky -top-[2px] bg-[#fff] shadow-md shadow-gray-200 text-[#000]"
           : "text-[#000]"
       }`}
     >
       <Link href="/" className="logo-title">
-        {/* <Image src={logo} alt="logo-pic" className="header-items logoBox" /> */}
-        <h1 className="text-2xl text-center font-bold bg-[var(--btncolor5)] text-transparent bg-clip-text">
+        <Image src={logo} alt="logo-pic" className="header-items logoBox" />
+        {/* <h1 className="text-2xl text-center font-bold bg-[var(--btncolor5)] text-transparent bg-clip-text">
           Intacad
-        </h1>
+        </h1> */}
       </Link>
 
       <div className="tabs-box">

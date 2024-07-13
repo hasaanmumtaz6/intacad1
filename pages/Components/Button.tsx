@@ -2,7 +2,7 @@ import React from 'react'
 
 const Button = ({btntext, functionApplier}:any) => {
   return (
-    <button className="custom-btn btn-13" onClick={functionApplier}>{btntext}</button>
+    <button className="custom-btn" onClick={functionApplier}>{btntext}</button>
   )
 }
 

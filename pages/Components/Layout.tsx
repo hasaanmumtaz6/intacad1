@@ -10,7 +10,7 @@ const ruda = Ruda({
 });
 const Layout = ({ children }: any) => {
   return (
-    <div className={`${ruda.className} cursor-animation`}>
+    <div className={`cursor-animation`}>
       <SpeedInsights />
       <Header />
       {children}
