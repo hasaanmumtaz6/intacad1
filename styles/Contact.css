@@ -1,0 +1,61 @@
+:root {
+  --btncolor1: #00522b;
+  --btncolor2: #0caa65;
+  --btncolor3: #12da839d;
+  --btncolor4: #033d0d;
+  --btncolor5: #c4ff63;
+  --boxshadow: #ffffff80;
+  --homebanerbggreen: #b2ff72;
+  --ourredColor: #ff0000;
+  --ourorangeColor: #ffbb54;
+  --btnorange2ndcolor: #ec930c;
+  --grayColor: #9ca3af;
+}
+
+.contact-container {
+  @apply flex flex-col gap-4 px-4;
+}
+.contact-box {
+  @apply h-auto flex flex-col gap-6 !p-0;
+}
+.contact-box div {
+  @apply flex items-center justify-center gap-4 w-full;
+}
+.contact-box div input {
+  @apply w-[50%];
+}
+.contact-box div input,
+.contact-box input,
+.contact-box textarea {
+  @apply px-6 py-2 outline-none shadow-md shadow-gray-300 rounded-md;
+}
+.contact-box input,
+.contact-box textarea {
+  @apply w-full;
+}
+.contact-box input,
+.contact-box textarea,
+.contact-box div input {
+  @apply border-x-[3px] border-x-[var(--btncolor1)] transition-all duration-700 ease-in-out focus:border-y-[1px] focus:border-y-[var(--ourorangeColor)];
+}
+
+@media (max-width: 491px) {
+  .contact-box div {
+    @apply flex-col;
+  }
+  .contact-box div input,
+  .touch-info-box {
+    @apply !w-[280px];
+  }
+  /* .contact-heading-box {
+    @apply pl-6;
+  } */
+
+  /* touch-box */
+  .touch-box {
+    @apply px-6;
+  }
+  .touch-info-box svg {
+    @apply hidden;
+  }
+}

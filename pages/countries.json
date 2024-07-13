@@ -1,0 +1,1225 @@
+{
+  "A": [
+    {
+      "name": "Afghanistan",
+      "timezone": "(UTC+04:30)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/af.png"
+    },
+    {
+      "name": "Albania",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/al.png"
+    },
+    {
+      "name": "Algeria",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/dz.png"
+    },
+    {
+      "name": "Andorra",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ad.png"
+    },
+    {
+      "name": "Angola",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ao.png"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ag.png"
+    },
+    {
+      "name": "Argentina",
+      "timezone": "(UTC-03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ar.png"
+    },
+    {
+      "name": "Armenia",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/am.png"
+    },
+    {
+      "name": "Australia",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/au.png"
+    },
+    {
+      "name": "Austria",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/at.png"
+    },
+    {
+      "name": "Azerbaijan",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/az.png"
+    }
+  ],
+
+  "B": [
+    {
+      "name": "Bahamas",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bs.png"
+    },
+    {
+      "name": "Bahrain",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bh.png"
+    },
+    {
+      "name": "Bangladesh",
+      "timezone": "(UTC+06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bd.png"
+    },
+    {
+      "name": "Barbados",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bb.png"
+    },
+    {
+      "name": "Belarus",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/by.png"
+    },
+    {
+      "name": "Belgium",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/be.png"
+    },
+    {
+      "name": "Belize",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bz.png"
+    },
+    {
+      "name": "Benin",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bj.png"
+    },
+    {
+      "name": "Bhutan",
+      "timezone": "(UTC+06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bt.png"
+    },
+    {
+      "name": "Bolivia",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bo.png"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ba.png"
+    },
+    {
+      "name": "Botswana",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bw.png"
+    },
+    {
+      "name": "Brazil",
+      "timezone": "(UTC-03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/br.png"
+    },
+    {
+      "name": "Brunei",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bn.png"
+    },
+    {
+      "name": "Bulgaria",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bg.png"
+    },
+    {
+      "name": "Burkina Faso",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bf.png"
+    },
+    {
+      "name": "Burundi",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/bi.png"
+    }
+  ],
+  "C": [
+    {
+      "name": "Cambodia",
+      "timezone": "(UTC+07:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kh.png"
+    },
+    {
+      "name": "Cameroon",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cm.png"
+    },
+    {
+      "name": "Canada",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ca.png"
+    },
+    {
+      "name": "Cape Verde",
+      "timezone": "(UTC-01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cv.png"
+    },
+    {
+      "name": "Central African Republic",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cf.png"
+    },
+    {
+      "name": "Chad",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/td.png"
+    },
+    {
+      "name": "Chile",
+      "timezone": "(UTC-03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cl.png"
+    },
+    {
+      "name": "China",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cn.png"
+    },
+    {
+      "name": "Colombia",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/co.png"
+    },
+    {
+      "name": "Comoros",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/km.png"
+    },
+    {
+      "name": "Congo",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cg.png"
+    },
+    {
+      "name": "Costa Rica",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cr.png"
+    },
+    {
+      "name": "Croatia",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/hr.png"
+    },
+    {
+      "name": "Cuba",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cu.png"
+    },
+    {
+      "name": "Cyprus",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cy.png"
+    },
+    {
+      "name": "Czech Republic",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/cz.png"
+    }
+  ],
+  "D": [
+    {
+      "name": "Denmark",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/dk.png"
+    },
+    {
+      "name": "Djibouti",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/dj.png"
+    },
+    {
+      "name": "Dominica",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/dm.png"
+    },
+    {
+      "name": "Dominican Republic",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/do.png"
+    }
+  ],
+  "E": [
+    {
+      "name": "East Timor",
+      "timezone": "(UTC+09:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tl.png"
+    },
+    {
+      "name": "Ecuador",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ec.png"
+    },
+    {
+      "name": "Egypt",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/eg.png"
+    },
+    {
+      "name": "El Salvador",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sv.png"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gq.png"
+    },
+    {
+      "name": "Eritrea",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/er.png"
+    },
+    {
+      "name": "Estonia",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ee.png"
+    },
+    {
+      "name": "Ethiopia",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/et.png"
+    }
+  ],
+  "F": [
+    {
+      "name": "Fiji",
+      "timezone": "(UTC+12:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/fj.png"
+    },
+    {
+      "name": "Finland",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/fi.png"
+    },
+    {
+      "name": "France",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/fr.png"
+    }
+  ],
+  "G": [
+    {
+      "name": "Gabon",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ga.png"
+    },
+    {
+      "name": "Gambia",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gm.png"
+    },
+    {
+      "name": "Georgia",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ge.png"
+    },
+    {
+      "name": "Germany",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/de.png"
+    },
+    {
+      "name": "Ghana",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gh.png"
+    },
+    {
+      "name": "Greece",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gr.png"
+    },
+    {
+      "name": "Grenada",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gd.png"
+    },
+    {
+      "name": "Guatemala",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gt.png"
+    },
+    {
+      "name": "Guinea",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gn.png"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gw.png"
+    },
+    {
+      "name": "Guyana",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gy.png"
+    }
+  ],
+  "H": [
+    {
+      "name": "Haiti",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ht.png"
+    },
+    {
+      "name": "Honduras",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/hn.png"
+    },
+    {
+      "name": "Hungary",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/hu.png"
+    }
+  ],
+  "I": [
+    {
+      "name": "Iceland",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/is.png"
+    },
+    {
+      "name": "India",
+      "timezone": "(UTC+05:30)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/in.png"
+    },
+    {
+      "name": "Indonesia",
+      "timezone": "(UTC+07:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/id.png"
+    },
+    {
+      "name": "Iran",
+      "timezone": "(UTC+03:30)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ir.png"
+    },
+    {
+      "name": "Iraq",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/iq.png"
+    },
+    {
+      "name": "Ireland",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ie.png"
+    },
+    {
+      "name": "Israel",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/il.png"
+    },
+    {
+      "name": "Italy",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/it.png"
+    }
+  ],
+  "J": [
+    {
+      "name": "Jamaica",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/jm.png"
+    },
+    {
+      "name": "Japan",
+      "timezone": "(UTC+09:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/jp.png"
+    },
+    {
+      "name": "Jordan",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/jo.png"
+    }
+  ],
+
+  "K": [
+    {
+      "name": "Kazakhstan",
+      "timezone": "(UTC+06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kz.png"
+    },
+    {
+      "name": "Kenya",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ke.png"
+    },
+    {
+      "name": "Kiribati",
+      "timezone": "(UTC+12:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ki.png"
+    },
+    {
+      "name": "Korea, North",
+      "timezone": "(UTC+09:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kp.png"
+    },
+    {
+      "name": "Korea, South",
+      "timezone": "(UTC+09:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kr.png"
+    },
+    {
+      "name": "Kosovo",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/xk.png"
+    },
+    {
+      "name": "Kuwait",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kw.png"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "timezone": "(UTC+06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kg.png"
+    }
+  ],
+
+  "L": [
+    {
+      "name": "Laos",
+      "timezone": "(UTC+07:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/la.png"
+    },
+    {
+      "name": "Latvia",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lv.png"
+    },
+    {
+      "name": "Lebanon",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lb.png"
+    },
+    {
+      "name": "Lesotho",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ls.png"
+    },
+    {
+      "name": "Liberia",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lr.png"
+    },
+    {
+      "name": "Libya",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ly.png"
+    },
+    {
+      "name": "Liechtenstein",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/li.png"
+    },
+    {
+      "name": "Lithuania",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lt.png"
+    },
+    {
+      "name": "Luxembourg",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lu.png"
+    }
+  ],
+
+  "M": [
+    {
+      "name": "Macedonia",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mk.png"
+    },
+    {
+      "name": "Madagascar",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mg.png"
+    },
+    {
+      "name": "Malawi",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mw.png"
+    },
+    {
+      "name": "Malaysia",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/my.png"
+    },
+    {
+      "name": "Maldives",
+      "timezone": "(UTC+05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mv.png"
+    },
+    {
+      "name": "Mali",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ml.png"
+    },
+    {
+      "name": "Malta",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mt.png"
+    },
+    {
+      "name": "Marshall Islands",
+      "timezone": "(UTC+12:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mh.png"
+    },
+    {
+      "name": "Mauritania",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mr.png"
+    },
+    {
+      "name": "Mauritius",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mu.png"
+    },
+    {
+      "name": "Mexico",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mx.png"
+    },
+    {
+      "name": "Micronesia",
+      "timezone": "(UTC+10:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/fm.png"
+    },
+    {
+      "name": "Moldova",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/md.png"
+    },
+    {
+      "name": "Monaco",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mc.png"
+    },
+    {
+      "name": "Mongolia",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mn.png"
+    },
+    {
+      "name": "Montenegro",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/me.png"
+    },
+    {
+      "name": "Morocco",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ma.png"
+    },
+    {
+      "name": "Mozambique",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mz.png"
+    },
+    {
+      "name": "Myanmar",
+      "timezone": "(UTC+06:30)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/mm.png"
+    }
+  ],
+
+  "N": [
+    {
+      "name": "Namibia",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/na.png"
+    },
+    {
+      "name": "Nauru",
+      "timezone": "(UTC+12:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/nr.png"
+    },
+    {
+      "name": "Nepal",
+      "timezone": "(UTC+05:45)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/np.png"
+    },
+    {
+      "name": "Netherlands",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/nl.png"
+    },
+    {
+      "name": "New Zealand",
+      "timezone": "(UTC+12:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/nz.png"
+    },
+    {
+      "name": "Nicaragua",
+      "timezone": "(UTC-06:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ni.png"
+    },
+    {
+      "name": "Niger",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ne.png"
+    },
+    {
+      "name": "Nigeria",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ng.png"
+    },
+    {
+      "name": "Norway",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/no.png"
+    }
+  ],
+
+  "O": [
+    {
+      "name": "Oman",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/om.png"
+    }
+  ],
+
+  "P": [
+    {
+      "name": "Pakistan",
+      "timezone": "(UTC+05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pk.png"
+    },
+    {
+      "name": "Palau",
+      "timezone": "(UTC+09:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pw.png"
+    },
+    {
+      "name": "Panama",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pa.png"
+    },
+    {
+      "name": "Papua New Guinea",
+      "timezone": "(UTC+10:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pg.png"
+    },
+    {
+      "name": "Paraguay",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/py.png"
+    },
+    {
+      "name": "Peru",
+      "timezone": "(UTC-05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pe.png"
+    },
+    {
+      "name": "Philippines",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ph.png"
+    },
+    {
+      "name": "Poland",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pl.png"
+    },
+    {
+      "name": "Portugal",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/pt.png"
+    }
+  ],
+
+  "Q": [
+    {
+      "name": "Qatar",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/qa.png"
+    }
+  ],
+
+  "R": [
+    {
+      "name": "Romania",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ro.png"
+    },
+    {
+      "name": "Russia",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ru.png"
+    },
+    {
+      "name": "Rwanda",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/rw.png"
+    }
+  ],
+
+  "S": [
+    {
+      "name": "Saint Kitts and Nevis",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/kn.png"
+    },
+    {
+      "name": "Saint Lucia",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lc.png"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/vc.png"
+    },
+    {
+      "name": "Samoa",
+      "timezone": "(UTC+13:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ws.png"
+    },
+    {
+      "name": "San Marino",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sm.png"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/st.png"
+    },
+    {
+      "name": "Saudi Arabia",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sa.png"
+    },
+    {
+      "name": "Senegal",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sn.png"
+    },
+    {
+      "name": "Serbia",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/rs.png"
+    },
+    {
+      "name": "Seychelles",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sc.png"
+    },
+    {
+      "name": "Sierra Leone",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sl.png"
+    },
+    {
+      "name": "Singapore",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sg.png"
+    },
+    {
+      "name": "Slovakia",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sk.png"
+    },
+    {
+      "name": "Slovenia",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/si.png"
+    },
+    {
+      "name": "Solomon Islands",
+      "timezone": "(UTC+11:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sb.png"
+    },
+    {
+      "name": "Somalia",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/so.png"
+    },
+    {
+      "name": "South Africa",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/za.png"
+    },
+    {
+      "name": "South Sudan",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ss.png"
+    },
+    {
+      "name": "Spain",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/es.png"
+    },
+    {
+      "name": "Sri Lanka",
+      "timezone": "(UTC+05:30)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/lk.png"
+    },
+    {
+      "name": "Sudan",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sd.png"
+    },
+    {
+      "name": "Suriname",
+      "timezone": "(UTC-03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sr.png"
+    },
+    {
+      "name": "Sweden",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/se.png"
+    },
+    {
+      "name": "Switzerland",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ch.png"
+    },
+    {
+      "name": "Syria",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/sy.png"
+    }
+  ],
+
+  "T": [
+    {
+      "name": "Taiwan",
+      "timezone": "(UTC+08:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tw.png"
+    },
+    {
+      "name": "Tajikistan",
+      "timezone": "(UTC+05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tj.png"
+    },
+    {
+      "name": "Tanzania",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tz.png"
+    },
+    {
+      "name": "Thailand",
+      "timezone": "(UTC+07:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/th.png"
+    },
+    {
+      "name": "Timor-Leste",
+      "timezone": "(UTC+09:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tl.png"
+    },
+    {
+      "name": "Togo",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tg.png"
+    },
+    {
+      "name": "Tonga",
+      "timezone": "(UTC+13:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/to.png"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tt.png"
+    },
+    {
+      "name": "Tunisia",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tn.png"
+    },
+    {
+      "name": "Turkey",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tr.png"
+    },
+    {
+      "name": "Turkmenistan",
+      "timezone": "(UTC+05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tm.png"
+    },
+    {
+      "name": "Tuvalu",
+      "timezone": "(UTC+12:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/tv.png"
+    }
+  ],
+  "U": [
+    {
+      "name": "Uganda",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ug.png"
+    },
+    {
+      "name": "Ukraine",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ua.png"
+    },
+    {
+      "name": "United Arab Emirates",
+      "timezone": "(UTC+04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ae.png"
+    },
+    {
+      "name": "United Kingdom",
+      "timezone": "(UTC+00:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/gb.png"
+    },
+    {
+      "name": "United States",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/us.png"
+    },
+    {
+      "name": "Uruguay",
+      "timezone": "(UTC-03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/uy.png"
+    },
+    {
+      "name": "Uzbekistan",
+      "timezone": "(UTC+05:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/uz.png"
+    }
+  ],
+  "V": [
+    {
+      "name": "Vanuatu",
+      "timezone": "(UTC+11:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/vu.png"
+    },
+    {
+      "name": "Vatican City",
+      "timezone": "(UTC+01:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/va.png"
+    },
+    {
+      "name": "Venezuela",
+      "timezone": "(UTC-04:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ve.png"
+    },
+    {
+      "name": "Vietnam",
+      "timezone": "(UTC+07:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/vn.png"
+    }
+  ],  
+  "Y": [
+    {
+      "name": "Yemen",
+      "timezone": "(UTC+03:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/ye.png"
+    }
+  ],
+  "Z": [
+    {
+      "name": "Zambia",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/zm.png"
+    },
+    {
+      "name": "Zimbabwe",
+      "timezone": "(UTC+02:00)",
+      "available": true,
+      "flag": "https://flagcdn.com/48x36/zw.png"
+    }
+  ]
+}

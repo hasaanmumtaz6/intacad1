@@ -1,0 +1,100 @@
+:root {
+  --btncolor1: #00522b;
+  --btncolor2: #0caa65;
+  --btncolor3: #12da839d;
+  --btncolor4: #033d0d;
+  --btncolor5: #c4ff63;
+  --boxshadow: #ffffff80;
+  --homebanerbggreen: #b2ff72;
+  --ourredColor: #ff0000;
+  --ourorangeColor: #ffbb54;
+  --btnorange2ndcolor: #ec930c;
+  --grayColor: #9ca3af;
+}
+
+/* Home banner */
+@media (max-width: 1004px) {
+  .banner-content h2 {
+    @apply text-4xl;
+  }
+}
+@media (max-width: 900px) {
+  .banner-content {
+    @apply w-[45%];
+  }
+  .banner-content h2 {
+    @apply text-3xl;
+  }
+  .banner-graphic img {
+    @apply w-[350px] h-[430px];
+  }
+}
+@media (max-width: 781px) {
+  /* Home-banner */
+  .home-banner-box {
+    @apply px-[1.5rem] py-[2rem] rounded-br-[82%];
+  }
+  .banner-content {
+    @apply w-[45%]  gap-3;
+  }
+  .banner-content h2 {
+    @apply text-4xl;
+  }
+  .banner-content p {
+    @apply text-[14px];
+  }
+  .banner-content div h3 {
+    @apply text-[14px];
+  }
+  .banner-graphic img {
+    @apply w-[280px] h-[420px];
+  }
+  /* Home-banner */
+}
+@media (max-width: 581px) {
+  /* Home-banner */
+  .home-banner-box {
+    @apply px-[1.5rem] py-[2rem] rounded-br-[0%] items-end pt-[5.5rem];
+  }
+  .banner-content {
+    @apply w-[100%]  gap-3;
+  }
+  .banner-content h2 {
+    @apply text-4xl;
+  }
+  .banner-content p {
+    @apply text-[14px];
+  }
+  .banner-content div h3 {
+    @apply text-[14px];
+  }
+  .banner-graphic img {
+    @apply hidden;
+  }
+  /* Home-banner */
+}
+/* Home banner */
+
+/* services-banner */
+@media (max-width: 702px) {
+  .services-title-banner {
+    @apply text-6xl;
+  }
+}
+@media (max-width: 581px) {
+  .services-banner-box {
+    @apply h-[270px];
+  }
+  .services-title-banner {
+    @apply text-4xl;
+  }
+}
+@media (max-width: 381px) {
+  .services-banner-box {
+    @apply h-[240px];
+  }
+  .services-title-banner {
+    @apply text-2xl;
+  }
+}
+/* services-banner */

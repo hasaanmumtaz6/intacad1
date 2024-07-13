@@ -1,0 +1,14 @@
+@media (max-width: 651px) {
+  .sidebar {
+    @apply hidden;
+  }
+  .seeting-shower-container{
+    @apply w-full;
+  }
+  .method-heading{
+    @apply text-[16px];
+  }
+  .form-opner-header-trigger{
+    @apply gap-[0.1rem];
+  }
+}
